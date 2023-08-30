@@ -124,6 +124,9 @@ background: #001f82;
 
 
 }
+.home:hover{
+cursor: pointer;
+}
 #ho{
     text-decoration:1px underline #fff;
 
