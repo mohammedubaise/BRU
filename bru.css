@@ -15,6 +15,9 @@ body{
     height: 150px;
     background:#1f36c7;
 }
+.left-selection{
+    cursor: pointer;
+}
 .right-selection{
     width: 79%;
     height: 65px;
@@ -222,6 +225,9 @@ font-size: 17px;
     border-bottom:1PX solid#fff ;
     font-weight: 100;
 
+}
+.location{
+    cursor: pointer;
 }
 .arrow{
     width: 12px;
