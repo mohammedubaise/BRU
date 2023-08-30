@@ -455,6 +455,9 @@ align-items: center;
     border-bottom: 1px solid#fff;
     height: 17px;
 }
+.about:hover{
+    cursor: pointer;
+}
 .lastlogo{
     width: 200px;
     height: 46px;
